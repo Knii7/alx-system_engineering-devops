@@ -1,1 +1,1 @@
-My shell redirection
+My redirection
